@@ -5,7 +5,7 @@ int main()
 	int n,i;
 	cin>>n;
 	if(n%2==0)
-	cout<<"even number";
+	cout<<"Even number";
 	else
-	cout<<"odd number";
+	cout<<"Odd number";
 }
